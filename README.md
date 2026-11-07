@@ -4,6 +4,8 @@ A small Python command-line tool for cleaning and checking Turkish transcripts â
 
 No external dependencies, only the Python standard library.
 
+![Output of the check command](https://raw.githubusercontent.com/ToprakKars/ToprakKars/main/assets/transcript-check.png)
+
 ## What it does
 
 **`check`** â€“ reads a transcript and reports:
